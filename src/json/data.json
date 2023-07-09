@@ -2,22 +2,22 @@
     [
     {
       "id": 1,
-      "question": "Rolex is a company that specializes in what type of product?",
+      "question": "Who created python?",
       "answers": [
         {
-          "text": "Phone",
+          "text": "Mark Zuckerberg",
           "correct": false
         },
         {
-          "text": "Watches",
+          "text": "Guido van Rossum",
           "correct": true
         },
         {
-          "text": "Food",
+          "text": "Bill Gates",
           "correct": false
         },
         {
-          "text": "Cosmetic",
+          "text": "Jeff Bezos",
           "correct": false
         }
       ]
@@ -46,22 +46,22 @@
     },
     {
       "id": 3,
-      "question": "Who played the character of harry potter in movie?",
+      "question": "Who is the creator of windows?",
       "answers": [
         {
-          "text": "Johnny Deep",
+          "text": "Ada Lovelace",
           "correct": false
         },
         {
-          "text": "Leonardo Di Caprio",
+          "text": "Alan Turing",
           "correct": false
         },
         {
-          "text": "Denzel Washington",
+          "text": "Linus Torvalds",
           "correct": false
         },
         {
-          "text": "Daniel Red Cliff",
+          "text": "Bill Gates",
           "correct": true
         }
       ]
@@ -216,6 +216,70 @@
         },
         {
           "text": "USA",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "The blinking line on the computer screen is the...?",
+      "answers": [
+        {
+          "text": "Cursor",
+          "correct": true
+        },
+        {
+          "text": "Mouse",
+          "correct": false
+        },
+        {
+          "text": "Typing line",
+          "correct": false
+        },
+        {
+          "text": "I have no idea",
+          "correct": false
+        }
+      ]
+    },{
+      "id": 12,
+      "question": "Where was the Internet created?",
+      "answers": [
+        {
+          "text": "USA",
+          "correct": true
+        },
+        {
+          "text": "Rusia",
+          "correct": false
+        },
+        {
+          "text": "Japan",
+          "correct": false
+        },
+        {
+          "text": "UK",
+          "correct": false
+        }
+      ]
+    },{
+      "id": 13,
+      "question": "who created react.js?",
+      "answers": [
+        {
+          "text": "Jeff Bezos",
+          "correct": false
+        },
+        {
+          "text": "Jordan Walke",
+          "correct": true
+        },
+        {
+          "text": "Elon Musk",
+          "correct": false
+        },
+        {
+          "text": "Guido van Rossum",
           "correct": false
         }
       ]
